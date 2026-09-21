@@ -40,3 +40,42 @@ Compile the project:
 
 ```bash
 javac Main.java Student.java StudentManager.java
+```
+
+Run the application:
+
+```bash
+java Main
+```
+
+## Example
+
+```text
+=== Student Management System ===
+1. Add Student
+2. Show Students
+3. Search Student
+4. Update Student
+5. Delete Student
+6. Exit
+Choose:
+```
+
+## What I Learned
+
+Through this project, I practiced:
+
+- Creating Java classes and objects
+- Using methods and collections
+- Working with ArrayList
+- Reading and writing data to files
+- Input validation
+- Basic CRUD operations
+- Version control using Git and GitHub
+
+## Future Improvements
+
+- MySQL database integration
+- Graphical user interface
+- User authentication
+- Unit testing
